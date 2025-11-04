@@ -122,15 +122,11 @@ Symptom-based diagnosis via LLM models (like Med-PaLM / BioGPT)
 Secure medical data storage
 
 Personalized health analytics dashboard
-
 Integration with wearable sensors.
 
 💡 Inspiration
 Healthcare accessibility is a global issue — MediMind AI aims to make early detection, self-awareness, and preventive healthcare available to everyone using intelligent, accessible technology.
 
+
 🪪 License
 This project is licensed under the MIT License — feel free to fork, modify, or expand it with your own AI backend.
-
-💡 Inspiration
-
-Healthcare accessibility is a global issue — MediMind AI aims to make early detection, self-awareness, and preventive healthcare available to everyone using intelligent, accessible technology.
