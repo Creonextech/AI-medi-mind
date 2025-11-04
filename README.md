@@ -82,8 +82,8 @@ Information about MediMind AI’s mission, team, and purpose.
 
 ⚙️ Tech Stack
 Category	Technology
-Frontend Framework	React (Vite / Next.js)
-UI Library	Tailwind CSS / Shadcn UI
+Frontend Framework	Reactjs
+UI Library	Tailwind CSS 
 Animation	Lottie React
 Icons	Lucide React / Heroicons
 Mock Data Handling	Local State & JSON
@@ -94,10 +94,10 @@ git clone https://github.com/your-username/medimind-ai.git
 cd medimind-ai
 
 2️⃣ Install Dependencies
-npm install
+****npm install**
 
 3️⃣ Run Development Server
-npm run dev
+**npm run dev**
 
 4️⃣ Open in Browser
 
