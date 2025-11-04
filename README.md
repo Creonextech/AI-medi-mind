@@ -1,5 +1,5 @@
 MediMind AI is a modern, AI-inspired frontend web application that allows users to upload a photo or describe symptoms to simulate disease detection, pain mapping, and personalized health recommendations.
-(This version is UI-only, without backend or real AI — built for demo, UX, or investor presentation purposes.)
+(This version is UI-only, with backend or real AI — built for demo, UX, or investor presentation purposes.)
 
 🌟 Features
 
@@ -30,6 +30,103 @@ Clean and adaptive layout optimized for desktop, tablet, and mobile.
 Information about MediMind AI’s mission, team, and purpose.
 
 🏗️ Project Structure
+
+```
+└── 📁medi-mind-ai-health-main
+    └── 📁public
+        ├── favicon.ico
+        ├── placeholder.svg
+        ├── robots.txt
+    └── 📁src
+        └── 📁assets
+            ├── hero-medical-ai.jpg
+        └── 📁components
+            └── 📁ui
+                ├── accordion.tsx
+                ├── alert-dialog.tsx
+                ├── alert.tsx
+                ├── aspect-ratio.tsx
+                ├── avatar.tsx
+                ├── badge.tsx
+                ├── breadcrumb.tsx
+                ├── button.tsx
+                ├── calendar.tsx
+                ├── card.tsx
+                ├── carousel.tsx
+                ├── chart.tsx
+                ├── checkbox.tsx
+                ├── collapsible.tsx
+                ├── command.tsx
+                ├── context-menu.tsx
+                ├── dialog.tsx
+                ├── drawer.tsx
+                ├── dropdown-menu.tsx
+                ├── form.tsx
+                ├── hover-card.tsx
+                ├── input-otp.tsx
+                ├── input.tsx
+                ├── label.tsx
+                ├── menubar.tsx
+                ├── navigation-menu.tsx
+                ├── pagination.tsx
+                ├── popover.tsx
+                ├── progress.tsx
+                ├── radio-group.tsx
+                ├── resizable.tsx
+                ├── scroll-area.tsx
+                ├── select.tsx
+                ├── separator.tsx
+                ├── sheet.tsx
+                ├── sidebar.tsx
+                ├── skeleton.tsx
+                ├── slider.tsx
+                ├── sonner.tsx
+                ├── switch.tsx
+                ├── table.tsx
+                ├── tabs.tsx
+                ├── textarea.tsx
+                ├── toast.tsx
+                ├── toaster.tsx
+                ├── toggle-group.tsx
+                ├── toggle.tsx
+                ├── tooltip.tsx
+                ├── use-toast.ts
+            ├── About.tsx
+            ├── Demo.tsx
+            ├── Features.tsx
+            ├── Footer.tsx
+            ├── Hero.tsx
+            ├── HowItWorks.tsx
+            ├── Navbar.tsx
+            ├── Newsletter.tsx
+        └── 📁hooks
+            ├── use-mobile.tsx
+            ├── use-toast.ts
+        └── 📁lib
+            ├── utils.ts
+        └── 📁pages
+            ├── Index.tsx
+            ├── NotFound.tsx
+        ├── App.css
+        ├── App.tsx
+        ├── index.css
+        ├── main.tsx
+        ├── vite-env.d.ts
+    ├── .gitignore
+    ├── bun.lockb
+    ├── components.json
+    ├── eslint.config.js
+    ├── index.html
+    ├── package-lock.json
+    ├── package.json
+    ├── postcss.config.js
+    ├── README.md
+    ├── tailwind.config.ts
+    ├── tsconfig.app.json
+    ├── tsconfig.json
+    ├── tsconfig.node.json
+    └── vite.config.ts
+```
 
 
 ⚙️ Tech Stack
